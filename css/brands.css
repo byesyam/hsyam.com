@@ -48,21 +48,21 @@
 /* Lifestyle */
 .button.button-lifestyle {
 	--button-text:#ffffff;
-	--button-background:#8c1aff;
+	--button-background:#7300e6;
 	--button-border:1px solid #ffffff;
 }
 
 /* Finance */
 .button.button-finance {
 	--button-text:#ffffff;
-	--button-background:#00b33c;
+	--button-background:#009933;
 	--button-border:1px solid #ffffff;
 }
 
 /* Tech */
 .button.button-tech {
 	--button-text:#ffffff;
-	--button-background:#ff8000;
+	--button-background:#e67300;
 	--button-border:1px solid #ffffff;
 }
 
