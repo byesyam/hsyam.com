@@ -41,21 +41,21 @@
 /* Personal */
 .button.button-personal {
 	--button-text:#ffffff;
-	--button-background:#b30000;
+	--button-background:#e60000;
 	--button-border:1px solid #ffffff;
 }
 
 /* Lifestyle */
 .button.button-lifestyle {
 	--button-text:#ffffff;
-	--button-background:#4747d1;
+	--button-background:#8c1aff;
 	--button-border:1px solid #ffffff;
 }
 
 /* Finance */
 .button.button-finance {
 	--button-text:#ffffff;
-	--button-background:#2d8659;
+	--button-background:#00b33c;
 	--button-border:1px solid #ffffff;
 }
 
