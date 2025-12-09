@@ -38,6 +38,34 @@
 	--button-border:1px solid #ffffff;
 }
 
+/* Personal */
+.button.button-personal {
+	--button-text:#ffffff;
+	--button-background:#2457F5;
+	--button-border:1px solid #ffffff;
+}
+
+/* Lifestyle */
+.button.button-lifestyle {
+	--button-text:#ffffff;
+	--button-background:#2457F5;
+	--button-border:1px solid #ffffff;
+}
+
+/* Finance */
+.button.button-finance {
+	--button-text:#ffffff;
+	--button-background:#2457F5;
+	--button-border:1px solid #ffffff;
+}
+
+/* Tech */
+.button.button-tech {
+	--button-text:#ffffff;
+	--button-background:#2457F5;
+	--button-border:1px solid #ffffff;
+}
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
