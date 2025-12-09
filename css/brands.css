@@ -41,28 +41,28 @@
 /* Personal */
 .button.button-personal {
 	--button-text:#ffffff;
-	--button-background:#2457F5;
+	--button-background:#b30000;
 	--button-border:1px solid #ffffff;
 }
 
 /* Lifestyle */
 .button.button-lifestyle {
 	--button-text:#ffffff;
-	--button-background:#2457F5;
+	--button-background:#4747d1;
 	--button-border:1px solid #ffffff;
 }
 
 /* Finance */
 .button.button-finance {
 	--button-text:#ffffff;
-	--button-background:#2457F5;
+	--button-background:#2d8659;
 	--button-border:1px solid #ffffff;
 }
 
 /* Tech */
 .button.button-tech {
 	--button-text:#ffffff;
-	--button-background:#ff9933;
+	--button-background:#ff8000;
 	--button-border:1px solid #ffffff;
 }
 
